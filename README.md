@@ -24,7 +24,7 @@ Cesium viewer: https://bertt.github.io/cesium_unreal_samples/crash
 
 Tileset.json: https://bertt.github.io/cesium_unreal_samples/crash/tileset.json
 
-Glb: https://bertt.github.io/cesium_unreal_samples/nocrash/crash.glb
+Glb: https://bertt.github.io/cesium_unreal_samples/crash/crash.glb
 
 Unreal:
 
